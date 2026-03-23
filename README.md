@@ -35,19 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Rakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
-
----
-
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/sarang-krishna-162b9a362  
