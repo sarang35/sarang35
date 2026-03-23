@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarangkrishna M Suresh 
 
-<!--
-**sarang35/sarang35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student at VIT Bhopal  
+💡 Passionate about AI, Web Development & Problem Solving  
+🚀 Building projects, learning daily, and growing step by step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🤖 Exploring Artificial Intelligence & Machine Learning  
+- 💻 Skilled in Frontend Development  
+- 🌱 Currently learning: Python OOP, DSA & ML  
+- 🎯 Goal: Become a top AI Engineer  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python 🐍
+- JavaScript ⚡
+- C++
+- java
+
+### 🌐 Frontend
+- HTML, CSS  
+- React.js
+- Node.js
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Vercel  
+
+---
+
+## 📊 GitHub Stats
+
+![Rakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+
+---
+
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/sarang-krishna-162b9a362  
+- 🌍 Portfolio: https://your-portfolio-link  
+- 📧 Email: sarangkrishnams@gmail.com 
+
+---
+
+## ⚡ Fun Fact
+
+I turn my blood into code 
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
